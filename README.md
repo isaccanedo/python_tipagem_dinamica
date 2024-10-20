@@ -44,7 +44,7 @@ Type hints: Embora a tipagem seja dinâmica em tempo de execução, o Python 3 i
 Outras linguagens: É interessante comparar a tipagem em Python com outras linguagens de programação, como Java (tipagem estática) e JavaScript (tipagem dinâmica mais fraca).
 Com essas melhorias, o texto se torna mais completo, preciso e fácil de entender, tanto para iniciantes quanto para programadores mais experientes em Python.
 
-# Bytecode
+### Bytecode
 A palavra bytecode é uma combinação dos termos "byte" e "code". Vamos analisar cada parte:
 
 Origem da Palavra
